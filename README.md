@@ -21,6 +21,6 @@ Password: password
 
 ## Getting Around
 The main functionality of the Rack Tracking System is located in the Tracking Tab, as shown below.
-![Alt Text](tracking demo.png)
+![Tracking Demo](tracking-demo.png)
 
 
