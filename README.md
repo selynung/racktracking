@@ -14,14 +14,13 @@ The Rack Tracking System is a web application developed to address Bert R. Hybel
 
 The actual website offers comprehensive and in-depth data, customized user profiles, and enhanced functionality tailored to the specific needs for three different types of users (Admin, Hub Worker, Truck Driver). The demo version provides the perspective of the admin, who is able to access majority of the functions.
 
-
-
 ## Website & Credentials
 Website: https://wmu.carttrack.hybels.com  
 Username: admin  
 Password: password
-## Getting Around
-The main functionality of the Rack Tracking System is located in the the Tracking Tab, as shown below.
 
+## Getting Around
+The main functionality of the Rack Tracking System is located in the Tracking Tab, as shown below.
+![Alt Text](tracking demo.png)
 
 
